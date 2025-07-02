@@ -1,29 +1,26 @@
-👋 Oi, eu sou a Sara Fernandes!
-💻 Futura Engenheira de Software apaixonada por tecnologia, inovação e boas práticas de desenvolvimento!
-🌱 Atualmente estudando: Engenharia de Software, com foco em desenvolvimento seguro, estruturas de dados, qualidade de software e boas práticas de codificação.
-🚀 Meu objetivo? Projetar e construir sistemas robustos, eficientes e seguros que impactem positivamente a vida das pessoas.
+# 👋 Oi, eu sou a Sara Fernandes !
 
-✨ Sobre mim
-🎯 Determinada, detalhista e movida por desafios constantes.
+🎓 Estudante de Engenharia de Software  
+💻 Interessada em redes, desenvolvimento backend, APIs, bancos de dados e segurança da informação  
+🌱 Atualmente aprendendo mais sobre Python, Java, redes de computadores e aplicações web
 
-💡 Curiosa por natureza — gosto de entender como as tecnologias funcionam "por baixo dos panos".
+## 🧠🎯 Interesses
+- Segurança da Informação e Cybersecurity  
+- Redes de Computadores e Infraestrutura  
+- Desenvolvimento Web e APIs  
+- Programação em Python e Java  
+- Bancos de Dados (SQL e NoSQL)  
+- Boas práticas de desenvolvimento e arquitetura de software
 
-🔍 Sou apaixonada por clean code, organização e arquitetura bem pensada.
+## 🛠️ Tecnologias que uso/estudo
+- 🐍 Python | ☕ Java | 🌐 HTML/CSS/JavaScript  
+- 🔗 APIs REST | 🛢️ MySQL, PostgreSQL, MongoDB  
+- 🧠 Git e GitHub | 🐧 Linux | 🌐 Redes e protocolos
 
-🤝 Acredito que a tecnologia se fortalece com colaboração e propósito.
-
-🎯 🧑‍💻 Estudos e Interesses
-Engenharia de Software e Arquitetura de Sistemas
-
-Qualidade de Software e Testes Automatizados
-
-Segurança no Desenvolvimento de Aplicações
-
-Programação Orientada a Objetos
-
-Python, Java, C/C++, JavaScript
-
-Git, versionamento e práticas ágeis
+## 💡 Sobre mim  
+Tenho interesse em entender como sistemas, redes e aplicações se conectam e funcionam por trás da tela.  
+Sou comprometida com o aprendizado contínuo e estou sempre em busca de melhorar minhas habilidades técnicas.
+   
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,7 +30,7 @@ Git, versionamento e práticas ágeis
 ![Networks](https://img.shields.io/badge/Networks-%20🌐%20-0A66C2?style=flat-square)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%20🔐%20-ff3860?style=flat-square)
 
-## 🚀 My GitHub Stats:
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarafernandxs&show_icons=true&theme=radical)
-🌐 Onde me encontrar
-💼 LinkedIn ()
+## 📫 Como me encontrar
+[LinkedIn](https://www.linkedin.com/in/sarafernandes)
+
+Obrigada por visitar meu perfil! 🚀
