@@ -15,7 +15,7 @@
 ## 🛠️ Tecnologias que uso/estudo
 - 🐍 Python | ☕ Java | 🌐 HTML/CSS/JavaScript  
 - 🔗 APIs REST | 🛢️ MySQL, PostgreSQL, MongoDB  
-- 🧠 Git e GitHub | 🐧 Linux | 🌐 Redes e protocolos
+- 🧠 Git e GitHub | 🐧 Linux | 🌐 Redes e protocolos |  🐚 Shell Script
 
 ## 💡 Sobre mim  
 Tenho interesse em entender como sistemas, redes e aplicações se conectam e funcionam por trás da tela.  
@@ -30,7 +30,5 @@ Sou comprometida com o aprendizado contínuo e estou sempre em busca de melhorar
 ![Networks](https://img.shields.io/badge/Networks-%20🌐%20-0A66C2?style=flat-square)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%20🔐%20-ff3860?style=flat-square)
 
-## 📫 Como me encontrar
-[LinkedIn](https://www.linkedin.com/in/sarafernandes)
 
 Obrigada por visitar meu perfil! 🚀
